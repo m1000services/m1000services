@@ -3,14 +3,17 @@
 
 # M1000 - Frontend Geliştirici
 
+🔭 Şu anda, anonimliği ve güvenliği ön planda tutan büyük bir online mağaza geliştirme yolculuğundayım. 
+
 ## Proje Hakkında
-🔭 Şu anda, anonimliği ve güvenliği ön planda tutan büyük bir online mağaza geliştirme yolculuğundayım. Geliştirdiğimiz online mağaza, Tor ağı üzerinde hizmet verecek ve kullanıcıların mahremiyetini koruyarak güvenli bir alışveriş deneyimi sunmayı amaçlıyor.
+- Tor ağı üzerinde hizmet verecek.
+- Kullanıcıların mahremiyetini koruyarak güvenli bir alışveriş deneyimi sunmayı amaçlıyor.
 
 ## Öğrenme ve Gelişim
-🌱 Öğrenmeye olan tutkum asla dinmiyor; her gün yeni beceriler edinerek kendimi geliştirmeye devam ediyorum.
+- 🌱 Sürekli öğreniyorum; her gün yeni beceriler ediniyorum.
 
 ## İşbirliği
-👯 Diğer geliştiriciler ve mobil uygulama tasarımcıları ile işbirliği yapma arzusundayım; birlikte yaratıcı projeler geliştirmek için heyecan duyuyorum.
+- 👯 Diğer geliştiricilerle işbirliği yapmayı seviyorum.
 
 ## Backend Geliştirme
 🤔 Backend geliştirme konularında yardım arıyorum; bu alanda daha da ileriye gitmek için destek almayı umuyorum.
