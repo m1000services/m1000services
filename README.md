@@ -15,9 +15,10 @@ M1000 - Frontend Geliştirici
 
 ⚡ Yeteneklerim: HTML, CSS, JavaScript ve PHP ile zengin web deneyimleri oluşturmak.
 
-🌐 M1000 Servisleri, Tor ağı üzerinde anonim hosting ve alan adı satışı sunarak kullanıcı gizliliğini koruyor. Gönüllü olarak Tor ağında exit node hizmeti sağlıyorum.
+🌐 M1000 Servisleri, Tor ağı üzerinde anonim hosting ve alan adı satışı sunarak kullanıcı gizliliğini koruyor. Gönüllü olarak Tor ağında exit node hizmeti sağlıyorum.      
+
 Diğer Bilgiler
 
     Anonim SMTP mail hizmeti sunarak kullanıcı gizliliğini korumaya çalışıyorum.
     Gizlilik ve mahremiyet odaklı projelerde yer alarak daha güvenli bir dijital dünya için mücadele ediyorum
-[**İngilizce'ye Çevir**](https://translate.google.com/?sl=tr&tl=en&u=https://github.com/m1000services/README.md)
+
