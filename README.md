@@ -23,7 +23,7 @@
 - Anonim SMTP mail hizmetini de Raspberry Pi cihazlarımız üzerinden sunarak kullanıcı gizliliğini korumaya çalışıyorum.
 - Gizlilik ve mahremiyet odaklı projelerde yer alarak daha güvenli bir dijital dünya için mücadele ediyorum.
 
-### 📩 Connect with me:
+### 📩 Benimle Bağlantı Kur:
 
 
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
@@ -35,7 +35,7 @@
 [gmail]: mailto:estiwenxd@proton.me
 <br />
 
-### 🔧 Languages and Tools:
+### 🔧 Diller ve Araçlar:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
