@@ -3,11 +3,11 @@
 
 # M1000 - Frontend Geliştirici
 
-🔭 Şu anda, anonimliği ve güvenliği ön planda tutan büyük bir online mağaza geliştirme yolculuğundayım. Bu mağaza, Tor ağı üzerinde hizmet verecek ve kullanıcıların mahremiyetini koruyarak güvenli bir alışveriş deneyimi sunmayı amaçlıyor.
+🔭 Şu anda, anonimliği ve güvenliği ön planda tutan bir online mağaza geliştiriyorum. Bu mağaza, Tor ağı üzerinde hizmet verecek ve kullanıcıların mahremiyetini koruyarak güvenli bir alışveriş deneyimi sunmayı amaçlıyor.
 
-🌱 Sürekli öğreniyor, yeni beceriler ediniyorum.
+🌱 Sürekli öğreniyor ve yeni beceriler ediniyorum.
 
-👯 Diğer geliştiriciler ve mobil uygulama tasarımcılarıyla işbirliği yapmayı seviyorum.
+👯 Diğer geliştiricilerle ve mobil uygulama tasarımcılarıyla işbirliği yapmayı seviyorum.
 
 🤔 Backend geliştirme konularında yardım arıyorum.
 
@@ -15,9 +15,9 @@
 
 ⚡ Yeteneklerim: HTML, CSS, JavaScript ve PHP ile zengin web deneyimleri oluşturmak.
 
-🌐 M1000 Servisleri, Tor ağı üzerinde anonim hosting ve alan adı satışı yaparak kullanıcı gizliliğini korumayı hedefliyor. Gönüllü olarak exit node hizmeti sağlıyorum; bu sayede kullanıcıların anonimliklerini artırmalarına yardımcı oluyorum.
+🌐 M1000 Servisleri, Tor ağı üzerinde anonim hosting ve alan adı satışı yaparak kullanıcı gizliliğini korumayı hedefliyor. Hosting hizmetimizi Raspberry Pi cihazlarımız üzerinden sağlıyoruz. Ayrıca, Raspberry Pi cihazlarımız üzerinden exit node hizmeti sunarak kullanıcıların anonimliklerini artırmalarına yardımcı oluyoruz.
 
 ## Diğer Bilgiler
 
-- Anonim SMTP mail hizmeti sunarak kullanıcı gizliliğini korumaya çalışıyorum.
+- Anonim SMTP mail hizmetini de Raspberry Pi cihazlarımız üzerinden sunarak kullanıcı gizliliğini korumaya çalışıyorum.
 - Gizlilik ve mahremiyet odaklı projelerde yer alarak daha güvenli bir dijital dünya için mücadele ediyorum.
