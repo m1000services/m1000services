@@ -17,6 +17,7 @@
 
 🌐 M1000 Servisleri, Tor ağı üzerinde anonim hosting ve alan adı satışı yaparak kullanıcı gizliliğini korumayı hedefliyor. Hosting hizmetimizi Raspberry Pi cihazlarımız üzerinden sağlıyoruz. Ayrıca, Raspberry Pi cihazlarımız üzerinden exit node hizmeti sunarak kullanıcıların anonimliklerini artırmalarına yardımcı oluyoruz.
 
+🌟 Şu anda Android, iOS ve Flutter gibi dilleri öğreniyorum. Mobil uygulama geliştirme dünyasında kendimi geliştirmek için heyecan duyuyorum! 📱💻
 ## Diğer Bilgiler
 
 - Anonim SMTP mail hizmetini de Raspberry Pi cihazlarımız üzerinden sunarak kullanıcı gizliliğini korumaya çalışıyorum.
