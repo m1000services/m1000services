@@ -27,7 +27,7 @@
 
 
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-
+Görüntülenme sayısı:
 <div align="center">
   <img src="https://profile-counter.glitch.me/m1000services/count.svg?"  />
 </div>
@@ -61,6 +61,6 @@
 
 <br />
 <br />
-Görüntülenme sayısı:
+
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=m1000services&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m1000services&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
